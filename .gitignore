@@ -1,0 +1,11 @@
+.DS_Store
+.Trashes
+.vscode
+*.pyc
+venv
+winvenv
+__pycache__/
+
+build
+dist
+adom.egg-info
