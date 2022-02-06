@@ -46,7 +46,7 @@ setup(
       'Topic :: Text Processing :: Markup :: HTML',
   ],
   install_requires=[
-      'httpx==0.22.0', 'selectolax==0.3.6'
+      'httpx==0.22.0', 'selectolax==0.3.6'  #, 'pytidylib==0.3.2'
   ],
   packages=find_packages(),
   include_package_data=True,

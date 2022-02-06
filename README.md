@@ -20,3 +20,17 @@ print( window.document.css('a') )
 ```bash
 python3 -m pip install adom
 ```
+
+### CLI
+
+To see the version:
+
+```bash
+domonic -v
+```
+
+To use css selectors on a website...
+
+```bash
+adom -q https://google.com a
+```
