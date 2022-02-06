@@ -34,3 +34,10 @@ To use css selectors on a website...
 ```bash
 adom -q https://google.com a
 ```
+
+### Discord
+
+There's a discord for domonic to talk about python/doms etc. It can be used for this as well.
+I check there 2 or 3 times a week or post updates there.
+
+https://discord.gg/a9pSZv4V5f
