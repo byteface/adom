@@ -26,7 +26,7 @@ python3 -m pip install adom
 To see the version:
 
 ```bash
-domonic -v
+adom -v
 ```
 
 To use css selectors on a website...
